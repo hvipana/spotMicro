@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/opt/app/spotMicro/spot_micro_motion_cmd/libs/spot_micro_kinematics_cpp",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"spot_micro_motion_cmd\\\" -I/opt/app/spotMicro/spot_micro_motion_cmd/libs/spot_micro_kinematics_cpp/include -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest    -std=c++14 -DGTEST_HAS_PTHREAD=1 -std=gnu++14 -o CMakeFiles/test_spot_micro_leg.dir/tests/test_spot_micro_leg.cpp.o -c /opt/app/spotMicro/spot_micro_motion_cmd/libs/spot_micro_kinematics_cpp/tests/test_spot_micro_leg.cpp",
+  "file": "/opt/app/spotMicro/spot_micro_motion_cmd/libs/spot_micro_kinematics_cpp/tests/test_spot_micro_leg.cpp"
+},
+{
+  "directory": "/opt/app/spotMicro/spot_micro_motion_cmd/libs/spot_micro_kinematics_cpp",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"spot_micro_motion_cmd\\\" -I/opt/app/spotMicro/spot_micro_motion_cmd/libs/spot_micro_kinematics_cpp/include -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest    -std=c++14 -DGTEST_HAS_PTHREAD=1 -std=gnu++14 -o CMakeFiles/test_spot_micro_kinematics.dir/tests/test_spot_micro_kinematics.cpp.o -c /opt/app/spotMicro/spot_micro_motion_cmd/libs/spot_micro_kinematics_cpp/tests/test_spot_micro_kinematics.cpp",
+  "file": "/opt/app/spotMicro/spot_micro_motion_cmd/libs/spot_micro_kinematics_cpp/tests/test_spot_micro_kinematics.cpp"
+},
+{
+  "directory": "/opt/app/spotMicro/spot_micro_motion_cmd/libs/spot_micro_kinematics_cpp",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"spot_micro_motion_cmd\\\" -I/opt/app/spotMicro/spot_micro_motion_cmd/libs/spot_micro_kinematics_cpp/include -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest    -std=c++14 -DGTEST_HAS_PTHREAD=1 -std=gnu++14 -o CMakeFiles/test_utils.dir/tests/test_utils.cpp.o -c /opt/app/spotMicro/spot_micro_motion_cmd/libs/spot_micro_kinematics_cpp/tests/test_utils.cpp",
+  "file": "/opt/app/spotMicro/spot_micro_motion_cmd/libs/spot_micro_kinematics_cpp/tests/test_utils.cpp"
+},
+{
+  "directory": "/opt/app/spotMicro/spot_micro_motion_cmd/libs/spot_micro_kinematics_cpp",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"spot_micro_motion_cmd\\\" -Dspot_micro_kinematics_EXPORTS -I/opt/app/spotMicro/spot_micro_motion_cmd/libs/spot_micro_kinematics_cpp/include  -fPIC   -std=c++14 -std=gnu++14 -o CMakeFiles/spot_micro_kinematics.dir/src/spot_micro_kinematics.cpp.o -c /opt/app/spotMicro/spot_micro_motion_cmd/libs/spot_micro_kinematics_cpp/src/spot_micro_kinematics.cpp",
+  "file": "/opt/app/spotMicro/spot_micro_motion_cmd/libs/spot_micro_kinematics_cpp/src/spot_micro_kinematics.cpp"
+},
+{
+  "directory": "/opt/app/spotMicro/spot_micro_motion_cmd/libs/spot_micro_kinematics_cpp",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"spot_micro_motion_cmd\\\" -Dspot_micro_kinematics_EXPORTS -I/opt/app/spotMicro/spot_micro_motion_cmd/libs/spot_micro_kinematics_cpp/include  -fPIC   -std=c++14 -std=gnu++14 -o CMakeFiles/spot_micro_kinematics.dir/src/utils.cpp.o -c /opt/app/spotMicro/spot_micro_motion_cmd/libs/spot_micro_kinematics_cpp/src/utils.cpp",
+  "file": "/opt/app/spotMicro/spot_micro_motion_cmd/libs/spot_micro_kinematics_cpp/src/utils.cpp"
+},
+{
+  "directory": "/opt/app/spotMicro/spot_micro_motion_cmd/libs/spot_micro_kinematics_cpp",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"spot_micro_motion_cmd\\\" -Dspot_micro_kinematics_EXPORTS -I/opt/app/spotMicro/spot_micro_motion_cmd/libs/spot_micro_kinematics_cpp/include  -fPIC   -std=c++14 -std=gnu++14 -o CMakeFiles/spot_micro_kinematics.dir/src/spot_micro_leg.cpp.o -c /opt/app/spotMicro/spot_micro_motion_cmd/libs/spot_micro_kinematics_cpp/src/spot_micro_leg.cpp",
+  "file": "/opt/app/spotMicro/spot_micro_motion_cmd/libs/spot_micro_kinematics_cpp/src/spot_micro_leg.cpp"
+}
+]
